@@ -1,1 +1,3 @@
 /vision/modelo/*.h5
+/model2train/arduino/models/*.h5
+/model2train/modelo/*.h5

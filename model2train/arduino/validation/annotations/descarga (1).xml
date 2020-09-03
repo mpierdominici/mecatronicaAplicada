@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>descarga (1).jpg</filename>
+	<path>C:\Users\mpier\Desktop\mecatronicaAplicada\model2train\images\descarga (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arduino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>51</ymin>
+			<xmax>170</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>
